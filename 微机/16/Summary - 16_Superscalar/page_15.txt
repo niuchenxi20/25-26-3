@@ -1,0 +1,7 @@
+Resource Conflict
+• Two or more instructions requiring access
+to the same resource at the same time
+—e.g. two arithmetic instructions, both need
+ALU device;
+ Can duplicate resources
+—e.g. have two arithmetic units

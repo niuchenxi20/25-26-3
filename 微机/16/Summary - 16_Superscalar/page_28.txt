@@ -1,0 +1,12 @@
+In-Order Issue
+Out-of-Order Completion
+• Out-of-Order Completion
+—Any number of instructions may be in the
+execution stage at any one time up to the
+maximum degree of machine parallelism
+across all functional units
+Execution stage free
+• Instruction issuing is stalled by
+—resource conflict
+—true data dependency
+—procedural dependency

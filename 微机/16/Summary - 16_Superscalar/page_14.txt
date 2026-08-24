@@ -1,0 +1,10 @@
+Procedural Dependency
+• ① For conditional branch: Can not execute
+instructions after a branch in parallel with
+instructions before a branch
+• ② if instruction length is not fixed (i.e. for
+CISC), instructions have to be decoded to find
+out how many fetches are needed.
+—This prevents simultaneous fetches
+—One reason of superscalar being more readily
+applicable to RISC

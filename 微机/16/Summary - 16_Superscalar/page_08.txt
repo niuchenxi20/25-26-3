@@ -1,0 +1,6 @@
+General Superscalar Organization
+2 Integer Instructions 2 Floating Instructions
+Superscalar： there are multiple functional units, each of
+which is implemented as a pipeline.
+Each individual functional unit provides a degree of
+parallelism.

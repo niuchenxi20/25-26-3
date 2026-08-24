@@ -1,0 +1,15 @@
+Out-of-Order Issue
+Out-of-Order Completion
+• Instruction window
+—Can continue to fetch and decode until this
+buffer is full
+—When a functional unit becomes available, an
+instruction (no conflict or dependency) can be
+executed
+—Not an additional pipeline stage
+• Processor can look ahead : it can identify
+independent instructions from the window.
+• The outcome must be right!
+Instruction
+Decode Execute Write
+Window

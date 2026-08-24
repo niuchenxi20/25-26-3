@@ -1,0 +1,10 @@
+Speedups of Machine Organizations
+Without Procedural Dependencies
+1.Not worthwhile to add 2.Need instruction
+2.
+function units without window large enough
+register renaming. (more than 8)
+No Output/Anti-
+3.
+dependency.
+1. None-dup Duplication None-dup Duplication

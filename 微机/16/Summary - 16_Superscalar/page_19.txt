@@ -1,0 +1,11 @@
+Instruction level parallelism
+• Instructions in a sequence are
+independent (key)
+ Execution can be overlapped
+ The degree of instruction-level parallelism is
+determined by the frequency of true data
+dependencies and procedural dependencies in
+the code.
+ Also governed by operation latency: : the time
+until the result of an instruction is available for
+use as an operand in a subsequent instruction.

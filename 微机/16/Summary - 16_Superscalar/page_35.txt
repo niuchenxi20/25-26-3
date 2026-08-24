@@ -1,0 +1,12 @@
+Register Renaming
+• Output and antidependencies occur
+because register contents may not reflect
+the correct ordering from the program
+• May result in a pipeline stall
+• Registers optimization by the compiler(in
+ch15) ->making conflict more acute
+• Register Renaming
+—one method to cope with storage conflicts
+:duplication of resources
+—in essence, registers are allocated dynamically
+by the processor hardware

@@ -1,0 +1,10 @@
+Out-of-Order Issue Out-of-Order
+Completion (Diagram)
+Instruction
+I1 costs 2 time cycles; Instruction issuing is stalled by
+I3, I4 need the same function unit; 1)resource conflict
+I5 need the outputs of I4; 2)true data dependency
+I5, I6 need the same function unit; 3)procedural dependency
+The difference is that more instructions are available for
+issuing, reducing the probability that a pipeline stage will
+have to stall.

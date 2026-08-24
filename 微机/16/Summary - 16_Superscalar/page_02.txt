@@ -1,0 +1,12 @@
+Key points
+A floating-point addition or
+multiplication needs 1-3 clock
+Instructions cycles. @intel Pentium 4
+vary in their
+duration
+A division takes 39 clock cycles
+@intel Pentium 4
+These instructions
+can often be
+executed in parallel
+Superscalar processor

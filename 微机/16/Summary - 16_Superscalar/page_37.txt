@@ -1,0 +1,6 @@
+Register Renaming example
+• Register Renaming: Reduce the
+unnecessary output/anti-dependencies
+True data dependency: I1 and I2, I3 and I4, I2 and I4
+Write-After-Write dependency: I1 and I3
+Write-After-Read dependency: I2 and I3, I1and I3

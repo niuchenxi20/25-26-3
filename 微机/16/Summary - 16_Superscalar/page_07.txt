@@ -1,0 +1,9 @@
+General Superscalar Organization
+A single A pipelined
+pipelined floating-point
+functional unit functional
+for integer unit
+operations
+1 Integer Instructions 1 Floating Instructions
+Scalar：Enable multiple instructions to be at
+different pipeline stages at one time.

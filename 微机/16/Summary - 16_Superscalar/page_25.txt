@@ -1,0 +1,13 @@
+In-Order Issue
+In-Order Completion (Diagram)
+Time Decode Execute Write
+I1 I2
+I3 I4 I1 I2
+I1
+I3 I4
+I3 I1 I2
+I4
+I5 I6 I4
+I6 I5 I3 I4
+I6
+I5 I6

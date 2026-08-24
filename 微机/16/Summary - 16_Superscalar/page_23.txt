@@ -1,0 +1,11 @@
+In-Order Issue
+In-Order Completion
+• Issue instructions in the exact order that
+would be achieved by sequential
+execution (in-order issue)
+• Write results in that same order(in-order
+completion)
+ Not very efficient
+May fetch >1 instruction
+Instructions must stall if necessary
+(dependency, branch…)

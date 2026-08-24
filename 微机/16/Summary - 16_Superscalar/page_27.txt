@@ -1,0 +1,9 @@
+In-Order Issue
+In-Order Completion (Diagram)
+Superscalar
+Time (2) (3) (2)
+• Instruction issuing is stalled by
+—resource conflict
+—true data dependency
+—procedural dependency
+—function unit requiring more than one cycle.

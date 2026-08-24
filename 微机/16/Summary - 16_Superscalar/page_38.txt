@@ -1,0 +1,11 @@
+Machine Parallelism evaluation
+• 3 hardware techniques for performance
+enhancement:
+—Duplication of Resources (ld/st/alu…)
+—Out of order issue (inst. windows)
+—Renaming Registers (duplicate reg.s)
+• Simulation Conclusions:
+—Not worthwhile to add function units without
+register renaming
+—Need instruction window large enough (more
+than 8)

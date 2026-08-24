@@ -1,0 +1,8 @@
+Effect of
+Dependencies
+Typical RISC is better than
+Superscalar!
+Reorder is effective.
+RISC is more readily
+than CISC !
+Duplicate resource!

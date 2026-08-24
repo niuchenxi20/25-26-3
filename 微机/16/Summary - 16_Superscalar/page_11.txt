@@ -1,0 +1,14 @@
+Limitations
+• Instruction level parallelism(ILP):
+the
+degree to which, on average, the instructions of
+a program can be executed in parallel.
+• How to improve ILP?
+ Compiler based optimization
+ Hardware techniques
+• Limited by
+—True data dependency
+—Procedural dependency
+—Resource conflicts
+—Output dependency
+—Antidependency

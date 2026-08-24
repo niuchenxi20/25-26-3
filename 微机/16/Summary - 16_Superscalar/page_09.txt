@@ -1,0 +1,9 @@
+Superscalar VS Superpipeline
+• Superpipeline
+ Many pipeline stages need less than half a clock
+cycle
+ Double internal clock speed gets two tasks per
+external clock cycle
+External clock
+Internal clock
+• Superscalar allows parallel fetch execute

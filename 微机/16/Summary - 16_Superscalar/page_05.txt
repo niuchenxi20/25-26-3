@@ -1,0 +1,12 @@
+What is Superscalar?
+• Common instructions
+(arithmetic, load/store,
+conditional branch) can
+be initiated
+simultaneously and
+executed independently
+• Equally applicable to
+RISC & CISC
+• Standard method for
+high performance
+microprocessors

@@ -1,0 +1,7 @@
+William Stallings
+Computer Organization
+and Architecture
+10th Edition
+Chapter 16
+Instruction Level Parallelism
+and Superscalar Processors

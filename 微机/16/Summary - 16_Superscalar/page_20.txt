@@ -1,0 +1,9 @@
+Instruction level parallelism
+• E.g1 Independent instructions
+Load R1  R2
+Add R3  R3, “1”
+Add R4  R4, R2
+• E.g2 Dependent instructions (?)
+Add R3  R3, “1”
+Add R4  R3, R2
+Store [R4]  R0

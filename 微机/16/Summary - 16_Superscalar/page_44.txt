@@ -1,0 +1,11 @@
+Summary
+• Superscalar vs Superpipeline
+• Instruction level parallelism(ILP) vs
+Machine Parallelism
+• Five limitations of ILP: WAR,WAW,RAW,
+procedural dependency, resource conflicts
+• How to identify ILP and orchestrate F/D/E
+stages in parallel?(3 instruction issue
+policy)
+• How to eliminate some unnecessary
+dependencies? (Register Renaming)

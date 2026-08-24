@@ -1,0 +1,8 @@
+Machine Parallelism
+• Machine (CPU’s) ability to take
+advantage of instruction level parallelism
+• limited by
+—the speed and sophistication of the
+mechanisms to find independent instructions
+—number of parallel pipelines to be fetched and
+executed

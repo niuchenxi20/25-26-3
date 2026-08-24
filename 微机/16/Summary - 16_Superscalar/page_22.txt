@@ -1,0 +1,12 @@
+Instruction Issue Policy
+• Instruction issue: process of initiation
+instruction execution in the processor’s
+functional units
+• Instruction issue policy: protocol used to
+issue instructions
+• CPU must look ahead.
+ Important orders：
+• Order in which instructions are fetched
+• Order in which instructions are executed
+• Order in which instructions change registers and
+memory

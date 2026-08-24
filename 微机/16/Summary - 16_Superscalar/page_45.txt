@@ -1,0 +1,14 @@
+Summary
+a combination of Compiler based
+Maximization optimisation and Hardware techniques
+True data dependency
+Instruction RAW： read after write
+level
+parallelism
+Procedural dependency
+Resource conflicts
+Limitations
+Output dependency
+WAW： write after write
+Antidependency
+WAR： write after read

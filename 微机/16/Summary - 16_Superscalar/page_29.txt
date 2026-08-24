@@ -1,0 +1,10 @@
+In-Order Issue
+Out-of-Order Completion (Diagram)
+Superscalar
+(2)
+(2) (3)
+ I1 costs 2 time cycles;
+ I3, I4 need the same function unit;
+ I5 need the outputs of I4;
+ I5, I6 need the same function unit;
+ I2 can be completed before I1;

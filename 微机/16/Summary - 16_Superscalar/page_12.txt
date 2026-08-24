@@ -1,0 +1,9 @@
+True Data Dependency
+• ADD EAX, ECX ;EAX = EAX+ECX
+• MOVE EBX,EAX ;EBX = EAX
+• (for Superscalar) Can fetch and decode
+second instruction in parallel with first
+• Can NOT execute second instruction until
+first is finished
+ Flow dependency or read-after-write
+dependency

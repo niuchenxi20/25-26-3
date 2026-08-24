@@ -1,0 +1,15 @@
+Register Renaming example
+• R3 :=R3 + R5 (I1)
+b a a
+• R4 :=R3 + 1 (I2)
+b b
+• R3 :=R5 + 1 (I3)
+c a
+• R7 :=R3 + R4 (I4)
+b c b
+• Without subscript refers to logical register
+in instruction
+• With subscript is hardware register
+allocated
+• Reduce the unnecessary output/anti-
+dependencies

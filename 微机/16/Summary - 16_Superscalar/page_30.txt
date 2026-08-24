@@ -1,0 +1,8 @@
+Out-of-Order Issue
+Out-of-Order Completion
+• In-Order issue
+—No additional instructions are decoded until the conflict
+is resolved.
+—CPU cannot look ahead.
+2. 1.
+4. 3.

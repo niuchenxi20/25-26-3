@@ -1,0 +1,10 @@
+RISC - Delayed Branch
+• Delayed branch strategy has less appeal for
+superscalar machines
+—Multiple instructions need to execute in delay
+slot
+—Instruction dependence problems
+ Branch prediction techniques return
+—Static branch prediction：PowerPC 601
+—Dynamic branch prediction：PowerPC 620 and
+the Pentium 4

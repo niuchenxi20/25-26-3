@@ -1,0 +1,9 @@
+Superscalar vs
+Superpipeline
+The superpipelined processor
+1
+falls behind the superscalar
+processor at the start of the 2
+program and at each branch
+3
+target.

@@ -1,0 +1,19 @@
+Summary
+Hardware
+Techniques for
+Simulation
+performance
+enhancement
+Not worthwhile
+to add function
+Duplication of
+units without
+Resources
+register
+renaming
+Need instruction
+Out of order
+window large
+issue
+enough
+Renaming

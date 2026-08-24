@@ -1,0 +1,8 @@
+Key points
+• The processor may eliminate some
+unnecessary dependencies by the use of
+additional registers and the renaming of
+register references in the original code.
+• Most superscalar machines use branch
+prediction methods rather than delayed
+branches to improve efficiency.

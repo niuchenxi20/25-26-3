@@ -1,0 +1,14 @@
+Branch Prediction
+High performance pipeline machines must
+deal with branches
+• 80486 (CISC) fetches both next sequential
+instruction after branch and branch target
+instruction
+• RISC machines use delayed branch
+strategy
+—Calculate result of branch before any unusable
+instructions pre-fetched
+—Always execute single instruction immediately
+following branch
+—Keeps pipeline full while fetching new instruction
+stream

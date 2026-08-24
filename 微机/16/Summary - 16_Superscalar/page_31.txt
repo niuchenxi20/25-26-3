@@ -1,0 +1,9 @@
+Out-of-Order Issue
+Out-of-Order Completion
+• Out-Of-Order issue
+—Decouple decode pipeline from execution
+pipeline
+—Instruction window is used
+Instruction
+Decode Execute Write
+Window

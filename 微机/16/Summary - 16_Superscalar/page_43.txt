@@ -1,0 +1,12 @@
+Superscalar Implementation
+Key Elements:
+• Simultaneously fetch multiple instructions
+• Logic to determine true dependencies
+involving register value and mechanisms to
+communicate these values
+• Mechanisms to initiate multiple instructions
+in parallel
+• Resources for parallel execution of multiple
+instructions
+• Mechanisms for committing process state in
+correct order

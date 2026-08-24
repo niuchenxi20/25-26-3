@@ -1,0 +1,15 @@
+In-Order Issue
+In-Order Completion (Diagram)
+cycle
+1 2 3 4 5 6 7 8
+I1 D E E W
+I2 D E W
+I3 D D E W
+I4 D D D E W
+I5 D E W
+I6 D D E W
+I1 : 2 E
+I3, I4 : resource conflict
+5 cycles ->8 cycles
+I5, I4 : true data dependency
+I5, I6 : resource conflict

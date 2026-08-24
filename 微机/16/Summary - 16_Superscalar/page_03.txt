@@ -1,0 +1,8 @@
+Key points
+• Superscalar is to use multiple independent
+instruction pipelines in a processor
+exploring instruction-level parallelism.
+• A superscalar processor fetches multiple
+instructions at a time and attempts to find
+nearby instructions that are independent
+of one another.

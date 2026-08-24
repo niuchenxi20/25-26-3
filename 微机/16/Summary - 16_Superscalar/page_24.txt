@@ -1,0 +1,9 @@
+In-Order Issue
+In-Order Completion (Diagram)
+Superscalar
+Time (2) (3) (2)
+Fetch&Decode in pairs 3 separate function units 2 write stages
+ I1 needs 2 time cycles;----------------------2 time cycles
+ I3, I4 need the same function unit; -----resource conflict
+ I5 need the outputs of I4;-------------------true data dependency
+ I5, I6 need the same function unit; -----resource conflict

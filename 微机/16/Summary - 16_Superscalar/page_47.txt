@@ -1,0 +1,15 @@
+3
+separate functional units
+ I1 needs 2 time cycles;
+ I3, I4 need the same
+function unit;
+ I5 need the outputs of
+I4;
+ I5, I6 need the same
+function unit;
+Instruction window
+is used to decouple
+the decode and
+execute stages,and it
+is not an additional
+pipeline stage.

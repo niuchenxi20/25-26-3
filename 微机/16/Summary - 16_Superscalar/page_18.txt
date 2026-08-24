@@ -1,0 +1,20 @@
+16.2 Design Issues
+seussi
+ngiseD
+Instruction level
+parallelism(ILP) and
+Machine Parallelism
+Instruction issue
+How to identify ILP
+and orchestrate
+F/D/E stages in
+parallel Instruction issue
+policy
+How to cope with
+Register
+conflicts
+renaming
+(dependency) ?
+Branch Prediction
+Superscalar
+execution

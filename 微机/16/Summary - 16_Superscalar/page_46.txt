@@ -1,0 +1,19 @@
+Summary
+True data dependencies
+The Degree of
+Instruction
+Procedural dependencies
+level
+parallelism
+operation latency
+Machine
+the speed and sophistication of the mechanisms
+Parallelism：
+to find independent instructions
+machine ability
+to take
+advantage of
+instruction level
+number of parallel pipelines to be fetched and
+parallelism
+executed

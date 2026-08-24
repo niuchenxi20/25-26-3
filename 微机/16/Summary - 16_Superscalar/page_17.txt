@@ -1,0 +1,18 @@
+Output dependency
+& Antidependency
+• Output dependency
+— I1: R3  R3 op R5
+— I2: R4  R3 + 1
+— I3: R3  R5 + 1
+— I4: R7  R3 op R4
+— I2 depends on result of I1 - data dependency
+— I4 depends on result of I3 - data dependency
+— If I3 completes before I1, the result from I1 will be wrong -
+output (write-after-write) dependency
+• Write-after-Read dependency (Antidependency)
+— I1: R3  R3 op R5
+— I2: R4  R3 + 1
+— I3: R3  R5 + 1
+— I4: R7  R3 op R4
+— I3 can not complete before I2 starts as I2 needs a value in R3
+and I3 changes R3

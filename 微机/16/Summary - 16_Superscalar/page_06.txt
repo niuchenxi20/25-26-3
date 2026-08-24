@@ -1,0 +1,12 @@
+16.1 Overview
+• The term superscalar first coined in 1987,
+refers to a machine that is designed to
+improve the performance of the execution
+of scale instructions
+• The essence of the superscalar approach
+is the ability to execute instructions
+independently and concurrently in
+different pipelines.
+• The concept can be further exploited by
+allowing instructions to be executed in an
+order different from the program order.

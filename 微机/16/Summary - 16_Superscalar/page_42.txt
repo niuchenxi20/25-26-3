@@ -1,0 +1,11 @@
+Superscalar Execution
+In-order Reorder
+Out-of-order
+Sequential Fetch Sequential Inst.
+Inst.
+Remove
+artificial
+dependencies
+Figure 16.7
+Based on Data-dependency,
+Resource conflicts

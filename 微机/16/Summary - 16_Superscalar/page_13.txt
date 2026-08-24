@@ -1,0 +1,14 @@
+True Data Dependency
+• Memory execution makes the delay longer
+—Memory access may take 2 or more clock cycles to
+LOAD/STORE;
+—MOVE EAX,eff
+(load register EAX with the
+contents of effective memory address eff)
+—MOV EBX, EAX
+ For RISC, reorder instructions can speed up
+pipeline
+X For Superscalar, reorder is less effective than in
+RISC pipeline
+I E D
+I E
